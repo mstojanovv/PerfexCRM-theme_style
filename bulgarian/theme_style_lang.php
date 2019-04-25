@@ -1,7 +1,8 @@
 <?php
 
-#  Version 2.3.0
-$lang['theme_style']                            = 'Thema stijl';
+# Version 2.3.3
+
+$lang['theme_style'] = 'Theme Style';
 
 # Version 2.3.5
 $lang['theme_style_reset_info']            = 'This action does not reset the Custom CSS section.';
