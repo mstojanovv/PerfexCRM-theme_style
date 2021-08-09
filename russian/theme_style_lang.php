@@ -58,3 +58,4 @@ $lang['theme_style_button_default']                      = 'Кнопка Default
 $lang['theme_style_button_info']                         = 'Кнопка Info';
 $lang['theme_style_button_success']                      = 'Кнопка Success';
 $lang['theme_style_button_danger']                       = 'Кнопка Danger';
+$lang['theme_style_modal_header_text_color']             = 'Modal Header Text Color';

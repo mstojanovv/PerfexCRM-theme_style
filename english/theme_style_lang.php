@@ -1,7 +1,7 @@
 <?php
 
 #  Version 2.3.0
-$lang['theme_style']                       = 'Theme Style';
+$lang['theme_style'] = 'Theme Style';
 
 # Version 2.3.5
 $lang['theme_style_reset_info']            = 'This action does not reset the Custom CSS section.';
@@ -59,3 +59,4 @@ $lang['theme_style_button_default']                      = 'Button Default';
 $lang['theme_style_button_info']                         = 'Button Info';
 $lang['theme_style_button_success']                      = 'Button Success';
 $lang['theme_style_button_danger']                       = 'Button Danger';
+$lang['theme_style_modal_header_text_color']             = 'Modal Header Text Color';

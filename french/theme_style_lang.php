@@ -59,3 +59,4 @@ $lang['theme_style_button_default']                      = 'Button Default';
 $lang['theme_style_button_info']                         = 'Button Info';
 $lang['theme_style_button_success']                      = 'Button Success';
 $lang['theme_style_button_danger']                       = 'Button Danger';
+$lang['theme_style_modal_header_text_color']             = 'Modal Header Text Color';

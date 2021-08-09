@@ -59,3 +59,4 @@ $lang['theme_style_button_default']                      = 'Buton Varsayılan';
 $lang['theme_style_button_info']                         = 'Buton Bilgi';
 $lang['theme_style_button_success']                      = 'Buton Başarılı';
 $lang['theme_style_button_danger']                       = 'Buton Başarısız';
+$lang['theme_style_modal_header_text_color']             = 'Modal Header Text Color';
