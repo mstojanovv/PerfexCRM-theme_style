@@ -1,7 +1,7 @@
 <?php
 
 #  Version 2.3.0
-$lang['theme_style']                            = 'Tema Yapılandırıcı';
+$lang['theme_style'] = 'Tema Yapılandırıcı';
 
 # Version 2.3.5
 $lang['theme_style_reset_info']            = 'Bu işlem, Özel CSS bölümünü sıfırlamaz.';
@@ -60,3 +60,4 @@ $lang['theme_style_button_info']                         = 'Buton Bilgi';
 $lang['theme_style_button_success']                      = 'Buton Başarılı';
 $lang['theme_style_button_danger']                       = 'Buton Başarısız';
 $lang['theme_style_modal_header_text_color']             = 'Modal Header Text Color';
+$lang['theme_style_button_primary']                      = 'Button Primary';
