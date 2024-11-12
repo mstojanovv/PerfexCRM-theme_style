@@ -62,7 +62,7 @@ $lang['theme_style_modal_header_text_color']             = 'Цвет текст�
 $lang['theme_style_button_primary']                      = 'Кнопка Primary';
 
 // Version 3.2.1
-$lang['theme_style_content_background_color']      = 'Main Content Background Color';
-$lang['theme_style_tables']                        = 'Tables';
-$lang['theme_style_table_links_color']             = 'Table Links Color';
-$lang['theme_style_table_links_hover_focus_color'] = 'Table Links Hover/Focus Color';
+$lang['theme_style_content_background_color']      = 'Цвет фона основного контента';
+$lang['theme_style_tables']                        = 'Таблицы';
+$lang['theme_style_table_links_color']             = 'Цвет ссылок в таблицах';
+$lang['theme_style_table_links_hover_focus_color'] = 'Цвет ссылок в таблицах при наведении/фокусе';
